@@ -1,0 +1,185 @@
+{
+  "benchmark_timestamp": "2025-04-28T08:54:42Z",
+  "solr_url": "",
+  "results": [
+    {
+      "concurrent_users": 2,
+      "duration_seconds": 10,
+      "transactions": 			8818,
+      "availability": 			100.00,
+      "elapsed_time": 			9.88,
+      "response_time": 		0.00,
+      "transaction_rate": 		892.51,
+      "throughput": 			1.19,
+      "concurrency": 			1.95,
+      "successful_transactions": 	8818,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 3,
+      "duration_seconds": 10,
+      "transactions": 			17077,
+      "availability": 			100.00,
+      "elapsed_time": 			9.93,
+      "response_time": 		0.00,
+      "transaction_rate": 		1719.74,
+      "throughput": 			2.29,
+      "concurrency": 			2.93,
+      "successful_transactions": 	17077,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 5,
+      "duration_seconds": 10,
+      "transactions": 			18629,
+      "availability": 			100.00,
+      "elapsed_time": 			9.93,
+      "response_time": 		0.00,
+      "transaction_rate": 		1876.03,
+      "throughput": 			2.50,
+      "concurrency": 			4.84,
+      "successful_transactions": 	18629,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 7,
+      "duration_seconds": 10,
+      "transactions": 			36641,
+      "availability": 			100.00,
+      "elapsed_time": 			9.93,
+      "response_time": 		0.00,
+      "transaction_rate": 		3689.93,
+      "throughput": 			4.91,
+      "concurrency": 			6.75,
+      "successful_transactions": 	36642,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 11,
+      "duration_seconds": 10,
+      "transactions": 			46674,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.00,
+      "transaction_rate": 		4695.57,
+      "throughput": 			6.25,
+      "concurrency": 			10.70,
+      "successful_transactions": 	46674,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 13,
+      "duration_seconds": 10,
+      "transactions": 			40877,
+      "availability": 			100.00,
+      "elapsed_time": 			9.95,
+      "response_time": 		0.00,
+      "transaction_rate": 		4108.24,
+      "throughput": 			5.47,
+      "concurrency": 			12.63,
+      "successful_transactions": 	40877,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 17,
+      "duration_seconds": 10,
+      "transactions": 			41809,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.00,
+      "transaction_rate": 		4206.14,
+      "throughput": 			5.60,
+      "concurrency": 			16.63,
+      "successful_transactions": 	41809,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 19,
+      "duration_seconds": 10,
+      "transactions": 			38504,
+      "availability": 			100.00,
+      "elapsed_time": 			9.95,
+      "response_time": 		0.00,
+      "transaction_rate": 		3869.75,
+      "throughput": 			5.16,
+      "concurrency": 			18.61,
+      "successful_transactions": 	38505,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 23,
+      "duration_seconds": 10,
+      "transactions": 			36279,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.01,
+      "transaction_rate": 		3649.80,
+      "throughput": 			4.86,
+      "concurrency": 			22.65,
+      "successful_transactions": 	36279,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 29,
+      "duration_seconds": 10,
+      "transactions": 			36829,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.01,
+      "transaction_rate": 		3705.13,
+      "throughput": 			4.94,
+      "concurrency": 			28.59,
+      "successful_transactions": 	36829,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 31,
+      "duration_seconds": 10,
+      "transactions": 			37425,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.01,
+      "transaction_rate": 		3765.09,
+      "throughput": 			5.02,
+      "concurrency": 			30.57,
+      "successful_transactions": 	37425,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 37,
+      "duration_seconds": 10,
+      "transactions": 			37671,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.01,
+      "transaction_rate": 		3789.84,
+      "throughput": 			5.05,
+      "concurrency": 			36.60,
+      "successful_transactions": 	37671,
+      "failed_transactions": 		0
+    }
+    ,
+    {
+      "concurrent_users": 41,
+      "duration_seconds": 10,
+      "transactions": 			37463,
+      "availability": 			100.00,
+      "elapsed_time": 			9.94,
+      "response_time": 		0.01,
+      "transaction_rate": 		3768.91,
+      "throughput": 			5.02,
+      "concurrency": 			40.63,
+      "successful_transactions": 	37463,
+      "failed_transactions": 		0
+    }
